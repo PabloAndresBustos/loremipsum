@@ -9,15 +9,4 @@ do
 )   
     #crea un archivo con el contenido de la variable lorem
     echo "$lorem" >> loremipsum-$i.txt
-done./
-
-
-
-
-
-
-
-
-
-
-
+done
