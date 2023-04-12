@@ -41,10 +41,14 @@
 <div style="text-align: center; font-size: 24px">
     <h1 style="text-decoration: underline; color: black;  margin-top: 10rem">Profesores</h1>
 </div>
-<div style="display: flex; align-items: center; color: black; justify-content: space-around">
-    <img src="https://drive.google.com/uc?export=view&id=1qlv-QjdNQz9szJ1DTpBRPhDfXJKuWkwP" style="border-radius: 50%; width: 250px; border: 3px solid black; float: left">
-</div>
-<div style="display: flex; align-items: center; color: black; justify-content: space-around">
-    <img src="https://drive.google.com/uc?export=view&id=1sIlF1O7pn6nzaQTXA7NCFmltMedEp0TS" style="border-radius: 50%; width: 250px; border: 3px solid black; float: rigth">
+<div style="display: flex; align-items: center; justify-content: space-around">
+    <div style="display: flex; flex-direction: column; align-items: center; color: black">
+        <img src="https://drive.google.com/uc?export=view&id=1qlv-QjdNQz9szJ1DTpBRPhDfXJKuWkwP" style="border-radius: 50%; width: 250px; border: 3px solid black; float: left">
+        <p>Lorenzo Sauchelli</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; color: black">
+        <img src="https://drive.google.com/uc?export=view&id=1sIlF1O7pn6nzaQTXA7NCFmltMedEp0TS" style="border-radius: 50%; width: 250px; border: 3px solid black; float: rigth">
+        <p>Luciana Pesado</p>
+    </div>
 </div>
 
