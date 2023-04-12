@@ -1,12 +1,12 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
-<img src="https://drive.google.com/uc?export=view&id=1QdVq3T3Ab1LW68y3YzaZ5LyemsJ0glon" style="border-radius: 30%; margin-bottom: 3rem; border: 1px solid black">
+<div>
+<img src="https://drive.google.com/uc?export=view&id=1QdVq3T3Ab1LW68y3YzaZ5LyemsJ0glon">
 </div>
-<div style="text-align: center">
-    <h1 style="color: black; text-decoration: underline">Ejercicio 2<h1>
-    <h2 style="color: black; text-decoration: underline; margin-bottom: 2rem"> Loremipsum<h2>
+<div>
+    <h1>Ejercicio 2<h1>
+    <h2> Loremipsum<h2>
 </div>
 
-<div style="text-align: left; color: black">
+<div>
     <ul>
         <li>Crea un nuevo repositorio público de github "loremipsum"</li>
         <li>Clona el repositorio en tu local</li>
@@ -28,8 +28,8 @@
     </ul>
 </div>
 
-<div style="color: black">
-    <h3 style="text-decoration: underline; margin-top: 2rem">Comandos que te pueden servir para resolver este ejercicio:</h3>
+<div>
+    <h3>Comandos que te pueden servir para resolver este ejercicio:</h3>
     <ul>
         <li>echo</li>
         <li>wc</li>
@@ -38,16 +38,16 @@
     </ul>
 </div>
 
-<div style="text-align: center; font-size: 24px">
-    <h1 style="text-decoration: underline; color: black;  margin-top: 10rem">Profesores</h1>
+<div>
+    <h1>Profesores</h1>
 </div>
-<div style="display: flex; align-items: center; justify-content: space-around">
-    <div style="display: flex; flex-direction: column; align-items: center; color: black">
-        <img src="https://drive.google.com/uc?export=view&id=1qlv-QjdNQz9szJ1DTpBRPhDfXJKuWkwP" style="border-radius: 50%; width: 250px; border: 3px solid black; float: left">
+<div>
+    <div >
+        <img src="https://drive.google.com/uc?export=view&id=1qlv-QjdNQz9szJ1DTpBRPhDfXJKuWkwP">
         <p>Lorenzo Sauchelli</p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; color: black">
-        <img src="https://drive.google.com/uc?export=view&id=1sIlF1O7pn6nzaQTXA7NCFmltMedEp0TS" style="border-radius: 50%; width: 250px; border: 3px solid black; float: rigth">
+    <div >
+        <img src="https://drive.google.com/uc?export=view&id=1sIlF1O7pn6nzaQTXA7NCFmltMedEp0TS"">
         <p>Luciana Pesado</p>
     </div>
 </div>
